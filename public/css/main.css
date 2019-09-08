@@ -88,7 +88,7 @@ ul.dropdown-menu > li {
 
 
 /* New CarbonAds styles */
-#default_demo #_default_ {
+#default-demo #_default_ {
     position: relative;
     margin: 1em 0;
     border-radius: 3px;
@@ -97,57 +97,57 @@ ul.dropdown-menu > li {
     line-height: 1.5;
 }
 
-#default_demo .default-ad {
+#default-demo .default-ad {
     display: none;
 }
 
-#default_demo ._default_ {
+#default-demo ._default_ {
     display: block;
     overflow: hidden;
     padding: .5em 2em;
     line-height: 1.5;
 }
 
-#default_demo ._default_ > * {
+#default-demo ._default_ > * {
     vertical-align: middle;
 }
 
-#default_demo a {
+#default-demo a {
     color: #9a9a9a;
     text-decoration: none;
     transition: color .15s ease-in-out;
 }
 
-#default_demo a:hover {
+#default-demo a:hover {
     color: #e95420;
 }
 
-#default_demo .default-image {
+#default-demo .default-image {
     display: inline-block;
     margin-right: 6px;
     line-height: 0;
 }
 
-#default_demo .default-image img {
+#default-demo .default-image img {
     height: 20px;
     border-radius: 3px;
 }
 
-#default_demo .default-title:after {
+#default-demo .default-title:after {
     content: " — ";
 }
 
-#default_demo .default-title,
-#default_demo .default-description {
+#default-demo .default-title,
+#default-demo .default-description {
     display: inline;
 }
 
-#default_demo .default-title {
+#default-demo .default-title {
     position: relative;
     font-weight: 600;
 }
 
-#default_demo .default-description:after {
+#default-demo .default-description:after {
     position: relative;
     top: -1px;
     right: -8px;
